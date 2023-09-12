@@ -1,0 +1,9 @@
+body{
+    background: rgb(168,55,253);
+    background: linear-gradient(90deg, rgba(168,55,253,1) 0%, rgba(28,181,255,1) 100%);
+}
+
+.itd-main{
+    font-weight: normal;
+    color: antiquewhite;
+}
